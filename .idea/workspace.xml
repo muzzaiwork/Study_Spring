@@ -3,39 +3,48 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="core" />
+    </loaded-modules>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5054abca-af9a-4bae-959a-4ac042d5be3f" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/core.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/core.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/CoreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/CoreApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/MemberApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/MemberApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/OrderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/OrderApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/discount/DiscountPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/discount/DiscountPolicy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/discount/FixDiscountPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/discount/FixDiscountPolicy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/discount/RateDiscountPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/discount/RateDiscountPolicy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/member/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/Grade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/member/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/MemberRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/member/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/MemberService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/member/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/MemberServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/member/MemoryMemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/MemoryMemberRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/order/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/order/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/order/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/java/hello/core/order/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/order/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/test/java/hello/core/CoreApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/test/java/hello/core/CoreApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/test/java/hello/core/discount/RateDiscountPolicyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/test/java/hello/core/discount/RateDiscountPolicyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/test/java/hello/core/member/MemberServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/test/java/hello/core/member/MemberServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpring/src/test/java/hello/core/order/OrderServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/test/java/hello/core/order/OrderServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/CoreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/CoreApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/MemberApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/MemberApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/OrderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/OrderApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/discount/DiscountPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/discount/DiscountPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/discount/FixDiscountPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/discount/FixDiscountPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/discount/RateDiscountPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/discount/RateDiscountPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/member/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/member/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/member/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/member/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/member/MemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/member/MemoryMemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/member/MemoryMemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/order/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/order/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/java/hello/core/order/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/java/hello/core/order/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/test/java/hello/core/CoreApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/test/java/hello/core/CoreApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/test/java/hello/core/discount/RateDiscountPolicyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/test/java/hello/core/discount/RateDiscountPolicyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/test/java/hello/core/member/MemberServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/test/java/hello/core/member/MemberServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication/src/test/java/hello/core/order/OrderServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application/src/test/java/hello/core/order/OrderServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +52,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/Spring-Basic">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Spring-Basic/DipOcpViolationApplication">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/Spring-Basic/NoneSpringApplication">
@@ -59,6 +77,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -85,12 +106,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/study/Spring/Spring-Basic/NoneSpringApplication",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/study/Spring/Spring-Basic/DIP_OCP_Violation_Application",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,13 +126,14 @@
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.MemberApp">
+  <component name="RunManager">
     <configuration name="MemberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hello.core.MemberApp" />
-      <module name="core.main" />
+      <module name="hello.core.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hello.core.*" />
@@ -114,6 +143,28 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="'core'에 있는 테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Spring-Basic/DIP_OCP_Violation_Application" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Study" />
@@ -128,15 +179,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="core.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.core.CoreApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.'core'에 있는 테스트" />
         <item itemvalue="애플리케이션.MemberApp" />
       </list>
     </recent_temporary>
@@ -150,11 +195,20 @@
       <option name="presentableId" value="Default" />
       <updated>1698277050515</updated>
       <workItem from="1698277051846" duration="255000" />
-      <workItem from="1698625391599" duration="492000" />
+      <workItem from="1698625391599" duration="2188000" />
+      <workItem from="1698628798673" duration="421000" />
+      <workItem from="1698629229515" duration="3568000" />
+      <workItem from="1698635259437" duration="200000" />
+      <workItem from="1698641552897" duration="419000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="Spring" />
+    <module name="core.main" />
+    <module name="core.test" />
   </component>
 </project>
